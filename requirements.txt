@@ -1,4 +1,0 @@
-
-aiogram==3.7.0
-yt-dlp==2024.12.23
-aiohttp==3.9.5
